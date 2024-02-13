@@ -1,1 +1,21 @@
+body {
+  background: linear-gradient(to right, rgb(246, 206, 207), rgb(233, 165, 190));
+}
 
+img {
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+}
+
+img:hover {
+  cursor: pointer;
+}
+
+.category-label {
+  text-align: center;
+}
+
+.category-label:hover {
+  cursor: pointer;
+}
